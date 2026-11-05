@@ -1,4 +1,4 @@
-**# Bank Customer Churn & Risk Analysis**
+# Bank Customer Churn & Risk Analysis
 
 ## Overview
 
